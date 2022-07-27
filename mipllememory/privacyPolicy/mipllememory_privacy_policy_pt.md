@@ -40,7 +40,7 @@ estas informações para futuras análises com o intuito de melhorar nossos
 serviços, desenvolver novos serviços e principalmente aperfeiçoar e
 personalizar sua experiência ao utilizar o aplicativo *Miplle Memory*.
 
-*   **Firebase:** O Firebase é uma plataforma da Google que nos ajuda a construir aplicativos melhores e entender melhor nossos usuários. Mais informações sobre o Firebase em [Sobre o Firebase](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj908zli6P3AhX_g5UCHV3nDzQQFnoECAkQAQ&url=https%3A%2F%2Ffirebase.google.com%2F%3Fhl%3Dpt&usg=AOvVaw35ZHRRnbb3FRIt3tVbLP7-),  [Política de privacidade do Firebase](https://firebase.google.com/support/privacy?hl=pt-br){:target="_blank"}.
+*   **Firebase:** O Firebase é uma plataforma da Google que nos ajuda a construir aplicativos melhores e entender melhor nossos usuários. Mais informações sobre o Firebase em [Sobre o Firebase](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj908zli6P3AhX_g5UCHV3nDzQQFnoECAkQAQ&url=https%3A%2F%2Ffirebase.google.com%2F%3Fhl%3Dpt&usg=AOvVaw35ZHRRnbb3FRIt3tVbLP7-){:target="_blank"},  [Política de privacidade do Firebase](https://firebase.google.com/support/privacy?hl=pt-br){:target="_blank"}.
 *   **Crashlytics (Firebase):** Coletamos, através do Crashlytics, dados sobre a execução do aplicativo quando da ocorrência de erros inesperados. Mais informações sobre o Crashlytics em [Sobre o Crashlytics](https://firebase.google.com/docs/crashlytics){:target="_blank"}.
 *   **Analytics (Firebase):** Coletamos, através do Analytics, dados quantitativos para fins estatísticos dos termos utilizados na consulta, sem contudo associar o termo pesquisado ao usuário. Mais informações sobre o Analytics em [Sobre o Analytics](https://firebase.google.com/docs/analytics/events?hl=pt-br&platform=android){:target="_blank"}.
 
@@ -65,4 +65,4 @@ atualizado.
 ### Demais dúvidas
 
 Caso você possua alguma dúvida com relação a esta Política de
-Privacidade, por favor envie-nos um email para [miplle.com@gmail.com](miplle.com@gmail.com){:target="_blank"}
+Privacidade, por favor envie-nos um email para [miplle.com@gmail.com](miplle.com@gmail.com)
