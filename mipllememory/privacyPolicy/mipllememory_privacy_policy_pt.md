@@ -1,4 +1,4 @@
-Miplle Memory Política de privacidade | Miplle
+Miplle Memory - Política de privacidade | Miplle
 
 **Política de Privacidade do Aplicativo Miplle Memory**
 ----------------------------------------------
