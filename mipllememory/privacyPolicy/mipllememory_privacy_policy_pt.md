@@ -3,11 +3,8 @@ Miplle Memory Política de privacidade | Miplle
 **Política de Privacidade do Aplicativo Miplle Memory**
 ----------------------------------------------
 
-Documento criado em: 27/07/2022
-
+Documento criado em: 27/07/2022   
 Última atualização: 27/07/2022
-
-## Política de privacidade
 
 A *miplle.com* leva muito a sério as suas informações privadas.
 
