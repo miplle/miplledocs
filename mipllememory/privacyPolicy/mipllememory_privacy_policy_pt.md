@@ -1,4 +1,4 @@
-Miplle Memory - Política de privacidade | Miplle
+Miplle Memory - Política de privacidade | Miplle [https://miplle.github.io/miplledocs](https://miplle.github.io/miplledocs)
 
 **Política de Privacidade do Aplicativo Miplle Memory**
 ----------------------------------------------
