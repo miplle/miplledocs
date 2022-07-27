@@ -1,4 +1,6 @@
-Miplle Memory - Política de privacidade | Miplle [https://miplle.github.io/miplledocs](https://miplle.github.io/miplledocs)
+Miplle Memory - Política de privacidade | Miplle [https://miplle.github.io/miplledocs](https://miplle.github.io/miplledocs)   
+
+[Sobre o Firebase](https://firebase.google.com/?hl=pt)
 
 **Política de Privacidade do Aplicativo Miplle Memory**
 ----------------------------------------------
