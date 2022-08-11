@@ -1,16 +1,16 @@
-Miplle Memory - Política de privacidade | Miplle  
+Mnemosine - Política de privacidade | Miplle  
 
-**Política de Privacidade do Aplicativo Miplle Memory**
+**Política de Privacidade do Aplicativo Mnemosine**
 ----------------------------------------------
 
 Documento criado em: 27/07/2022   
-Última atualização: 27/07/2022
+Última atualização: 11/08/2022
 
 A *miplle.com* leva muito a sério as suas informações privadas.
 
 Esta política mostra nossas práticas de privacidade descrevendo como
 tratamos às informações que são inseridas por você ou coletadas quando
-você utiliza o *Miplle Memory*. Ao utilizar o aplicativo, você estará
+você utiliza o *Mnemosine*. Ao utilizar o aplicativo, você estará
 consentindo a coleta, transferência, manipulação, armazenamento,
 divulgação e outros usos de suas informações como descrito nesta
 Política de Privacidade. Por favor, leia cuidadosamente.
@@ -18,10 +18,10 @@ Política de Privacidade. Por favor, leia cuidadosamente.
 ### O que esta Política de Privacidade cobre
 
 Esta Política de Privacidade cobre como tratamos as informações colhidas
-quando você está utilizando ou acessando o aplicativo *Miplle Memory*.
+quando você está utilizando ou acessando o aplicativo *Mnemosine*.
 
 Esta Política de Privacidade não se aplica às práticas de terceiros que
-não pertence, controla ou gerencia o *Miplle Memory*; incluindo
+não pertence, controla ou gerencia o *Mnemosine*; incluindo
 terceiros como websites, serviços e aplicações ("Serviços de
 terceiros"). Buscamos trabalhar apenas com serviços de terceiros
 transparentes e não nos responsabilizamos com o conteúdo ou políticas de
@@ -38,7 +38,7 @@ sobre como o usuário interage com o aplicativo. Por exemplo: o número de
 vezes que ele acessa uma página ou no que ele toca). Nós utilizamos
 estas informações para futuras análises com o intuito de melhorar nossos
 serviços, desenvolver novos serviços e principalmente aperfeiçoar e
-personalizar sua experiência ao utilizar o aplicativo *Miplle Memory*.
+personalizar sua experiência ao utilizar o aplicativo *Mnemosine*.
 
 *   **Firebase:** O Firebase é uma plataforma da Google que nos ajuda a construir aplicativos melhores e entender melhor nossos usuários. Mais informações sobre o Firebase em [Sobre o Firebase](https://firebase.google.com/?hl=pt),  [Política de privacidade do Firebase](https://firebase.google.com/support/privacy?hl=pt-br).
 *   **Crashlytics (Firebase):** Coletamos, através do Crashlytics, dados sobre a execução do aplicativo quando da ocorrência de erros inesperados. Mais informações sobre o Crashlytics em [Sobre o Crashlytics](https://firebase.google.com/docs/crashlytics).
