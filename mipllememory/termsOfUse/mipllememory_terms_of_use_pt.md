@@ -1,6 +1,6 @@
 Mnemosine - Termos de Uso | Miplle  
 
-**Política de Privacidade do Aplicativo Mnemosine**
+**Termos de Uso do Aplicativo Mnemosine**
 ----------------------------------------------
 
 Documento criado em: 11/08/2022   
