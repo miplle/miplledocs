@@ -50,10 +50,10 @@ personalizar sua experiência ao utilizar o aplicativo *Mnemosine*.
 
 Nós nunca compartilharemos as informações que recebermos de você.
 
-Esteja ciente que todo o conteúdo pelo aplicativo *Miplle Memory* são
+Esteja ciente que todo o conteúdo pelo aplicativo *Mnemosine* são
 restritas apenas a seu dispositivo. Desta forma, este conteúdo é
 compartilhado apenas se você compartilhar alguma informação sua
-armazenada no *Miplle Memory* ativamente.
+armazenada no *Mnemosine* ativamente.
 
 ### Alterações desta Política de Privacidade
 
