@@ -32,8 +32,7 @@ eles.
 
 ### Informações de acesso e utilização de ferramentas
 
-Informações de acesso e informações de uso das ferramentas do *Miplle
-Memory* poderão ser coletadas e armazenadas (id do Android e informações
+Informações de acesso e informações de uso das ferramentas do *Mnemosine* poderão ser coletadas e armazenadas (id do Android e informações
 sobre como o usuário interage com o aplicativo. Por exemplo: o número de
 vezes que ele acessa uma página ou no que ele toca). Nós utilizamos
 estas informações para futuras análises com o intuito de melhorar nossos
@@ -57,7 +56,7 @@ armazenada no *Mnemosine* ativamente.
 
 ### Alterações desta Política de Privacidade
 
-A equipe da *miplle.com* reserva-se ao direito de alterar este termo de
+A equipe da *miplle.org* reserva-se ao direito de alterar este termo de
 privacidade sem aviso prévio. Deste modo, recomendamos que consulte a
 nossa Política de Privacidade com regularidade de forma a estar sempre
 atualizado.
