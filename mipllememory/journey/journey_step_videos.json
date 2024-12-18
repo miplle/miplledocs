@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "steps": [
       {
         "code": 1,
@@ -100,7 +100,7 @@
             "sub_url": null
           },
           {
-            "code": "2",
+            "code": "1.2.1",
             "url": "https://www.dropbox.com/scl/fi/yrjgio0xwfmv3tl10o4us/7.2-Mnmonico-Conclusao.mp4?rlkey=cgsdkwwnczuz401f5mhdzztta&st=b1z02cwn&dl=1",
             "sub_url": null
           }
