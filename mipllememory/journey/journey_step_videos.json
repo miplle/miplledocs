@@ -1,5 +1,5 @@
 {
-    "version": 4,
+    "version": 5,
     "steps": [
       {
         "code": 1,
@@ -7,7 +7,7 @@
           {
             "code": "1",
             "url": "https://www.dropbox.com/scl/fi/z4lvty6ivf0tug3s17rej/1-Introducao.mp4?rlkey=tz4ypue90dt4auaxwg72fum7e&st=2hzabp1y&dl=1",
-            "sub_url": "https://miplle.github.io/miplledocs/mipllememory/journey/test.srt"
+            "sub_url": null
           }
         ]
       },
