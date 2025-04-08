@@ -1,8 +1,8 @@
 {
-    "version": 7,
+    "version": 8,
     "steps": [
       {
-        "code": 1,
+        "code": 0,
         "videos": [
           {
             "code": "1",
@@ -12,7 +12,7 @@
         ]
       },
       {
-        "code": 2,
+        "code": 1,
         "videos": [
           {
             "code": "1",
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "code": 3,
+        "code": 2,
         "videos": [
           {
             "code": "1",
@@ -32,7 +32,7 @@
         ]
       },
       {
-        "code": 4,
+        "code": 3,
         "videos": [
           {
             "code": "1",
@@ -42,7 +42,7 @@
         ]
       },
       {
-        "code": 5,
+        "code": 4,
         "videos": [
           {
             "code": "1",
@@ -52,7 +52,7 @@
         ]
       },
       {
-        "code": 6,
+        "code": 5,
         "videos": [
           {
             "code": "1",
@@ -82,7 +82,7 @@
         ]
       },
       {
-        "code": 7,
+        "code": 6,
         "videos": [
           {
             "code": "1",
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "code": 8,
+        "code": 7,
         "videos": [
           {
             "code": "1",
@@ -117,7 +117,7 @@
         ]
       },
       {
-        "code": 9,
+        "code": 8,
         "videos": [
           {
             "code": "1",
@@ -137,7 +137,7 @@
         ]
       },
       {
-        "code": 10,
+        "code": 9,
         "videos": [
           {
             "code": "1",
