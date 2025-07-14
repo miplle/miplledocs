@@ -1,1 +1,216 @@
-
+{
+    "version": 11,
+    "steps": [
+      {
+        "code": 0,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/z4lvty6ivf0tug3s17rej/1-Introducao.mp4?rlkey=tz4ypue90dt4auaxwg72fum7e&st=2hzabp1y&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 1,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/cfvs88cvm2acoik1mtgvy/2-Campeonato-mundial.mp4?rlkey=m4qjxw6deyzctqw8u7jwpj9n2&st=2xjr1ff0&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 2,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/84a8yua089chqsjz4awgk/3-Memoria.mp4?rlkey=ys7xtfw907y5hez74y3uy5d13&st=ousdlf0g&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 3,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/e1deo8z9gjrnxka18fcdb/4-Persistencia.mp4?rlkey=6ip3934owbtxvepws4fnmf1ko&st=1dbfuzwd&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 4,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/2o4tosyo9qg1ymtjxc12i/5-Atencao.mp4?rlkey=qxc4ov0v1qdgxo8hoo850ntdz&st=lhpchsew&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 5,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/cly5l6vrme689j3l3i5od/6-Vamos-fazer-um-teste-Parte-1.mp4?rlkey=xcbn641ppp3qjb5jwql2x73f0&st=1m5ffd0s&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "2",
+            "url": "https://www.dropbox.com/scl/fi/y9jmpnjh72fyjc1eba4o4/6-Vamos-fazer-um-teste-Parte-2.mp4?rlkey=y07cx67o3ycrzhnis3e2dr4yx&st=6zclisul&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "3",
+            "url": "https://www.dropbox.com/scl/fi/3pn35rn7nxjo0w3omv6jw/6-Vamos-fazer-um-teste-Parte-3.mp4?rlkey=3p7ved256907ba9m6sc6xad3m&st=6p9q3bem&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "3.1",
+            "url": "https://www.dropbox.com/scl/fi/4v2nikmymmw6a1jgurmd7/6.1.1-Vamos-fazer-um-teste-Falha.mp4?rlkey=gbo5505qbpje7ta0azjt3jh70&st=4843hx9r&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "3.2",
+            "url": "https://www.dropbox.com/scl/fi/cvkdqcs0icvwi5flnpskg/6.1.2-Vamos-fazer-um-teste-Sucesso.mp4?rlkey=hhqd01x83luqsd9qlxqjpg4i4&st=ik1reft5&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 6,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/tfyqusag4eiakmym028dn/7.1-Mnemonicos-Intro.mp4?rlkey=d832rbiluie9koi1hgxicr48u&st=d8vqbdmr&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "1.1",
+            "url": "https://www.dropbox.com/scl/fi/kbkka557yaiqyhv9wvoes/7.1.1-Mnemonicos-Falha.mp4?rlkey=awq3hmcp1dhr8ta8juqa18p0c&st=2hlmezjv&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "1.2",
+            "url": "https://www.dropbox.com/scl/fi/36ka8nrdu63whtpfmbmtb/7.1.2-Mnemonicos-Sucesso.mp4?rlkey=planopdwzjimgkjxaxk3w5t60&st=fny3hjr6&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "1.2.1",
+            "url": "https://www.dropbox.com/scl/fi/yrjgio0xwfmv3tl10o4us/7.2-Mnmonico-Conclusao.mp4?rlkey=cgsdkwwnczuz401f5mhdzztta&st=b1z02cwn&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 7,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/ro82zmo05h3y12am1hsfe/8-Tecnica-menmonica.mp4?rlkey=rrtcgyppi46hv69uh2ynkgrzg&st=5u69wh3e&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 8,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/x1z2rq0k0yc9eegu7wn7g/9-Na-pratica-Intro.mp4?rlkey=8h8haxdrhm2is1f8mplw1nmnm&st=lg2bsfx4&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "1.1",
+            "url": "https://www.dropbox.com/scl/fi/qwbv0cu8kfzr8apry2yxk/9.1.1-Na-pratica-Erro.mp4?rlkey=cha7uj9swdb4078898wziicah&st=6j84kvo8&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "1.2",
+            "url": "https://www.dropbox.com/scl/fi/4yicl5zussi0qz0i92zjb/9.1.2-Na-pratica-Sucesso.mp4?rlkey=8v0srp5bkfaqjtacy68wya9zu&st=cq23mor8&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 10,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/sejiks36shdr662b79jwi/10-Associa-o-Mnemonica-Lista-2.mp4?rlkey=y9v1ric1e5agizsv7rvny7owc&st=gbfypwx9&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "1.1",
+            "url": "https://www.dropbox.com/scl/fi/qwbv0cu8kfzr8apry2yxk/9.1.1-Na-pratica-Erro.mp4?rlkey=cha7uj9swdb4078898wziicah&st=6j84kvo8&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "1.2",
+            "url": "https://www.dropbox.com/scl/fi/4yicl5zussi0qz0i92zjb/9.1.2-Na-pratica-Sucesso.mp4?rlkey=8v0srp5bkfaqjtacy68wya9zu&st=cq23mor8&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 15,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/7lk1gjd3y77rro7ss5xtg/15-Enumeradas-Apresenta-o-Parte-1.mp4?rlkey=ha54qnsvg3jn9mwdcssjjwnih&st=10f537ob&dl=1",
+            "sub_url": null
+          },
+          {
+            "code": "2",
+            "url": "https://www.dropbox.com/scl/fi/ilzp5jug9noy24xq7vzed/15-Enumeradas-Apresenta-o-Parte-2.mp4?rlkey=8k70vybehe83utk2kdlbl9r4w&st=bji1t58c&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 16,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/91ms2gjqoamj3lji87f82/16-Enumeradas-Algarismo-_-Consoantes.mp4?rlkey=j4181ubnyzvws20vss67mnvxo&st=hfj8qt38&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 21,
+        "column": 2,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/k2bh8tvci6ltqhlm95yt9/21b-ncoragem-Palavras-ncora.mp4?rlkey=sa8tbht8bp9cex4txmdzmf7ms&st=zxiaqayp&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 29,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/salnrnvdfykpgkdowkhjf/29-ncoragem-Palavras.mp4?rlkey=hfvfu5cak576p7t5jo89pizyb&st=wnzwgfew&dl=1",
+            "sub_url": null
+          }
+        ]
+      },
+      {
+        "code": 36,
+        "videos": [
+          {
+            "code": "1",
+            "url": "https://www.dropbox.com/scl/fi/078669618tily1wjlquvw/36-Lista-de-palavras-apenas-audio.mp3?rlkey=y2z1gg2owejzjj8wd4z1tty85&st=bedln81v&dl=1",
+            "sub_url": null
+          }
+        ]
+      }
+    ]
+  }
