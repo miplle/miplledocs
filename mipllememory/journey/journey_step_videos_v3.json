@@ -1,5 +1,5 @@
 {
-    "version": 12,
+    "version": 13,
     "steps": [
       {
         "code": 0,
@@ -86,22 +86,22 @@
         "videos": [
           {
             "code": "1",
-            "url": "https://www.dropbox.com/scl/fi/tfyqusag4eiakmym028dn/7.1-Mnemonicos-Intro.mp4?rlkey=d832rbiluie9koi1hgxicr48u&st=d8vqbdmr&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/baw8xnmoluq8cxbsms0sd/7-Mnemonico-2-Intro.mp4?rlkey=bdm7qxxdmbbca0nk5gf4w1n55&st=f859jwe1&dl=1",
             "sub_url": null
           },
           {
             "code": "1.1",
-            "url": "https://www.dropbox.com/scl/fi/kbkka557yaiqyhv9wvoes/7.1.1-Mnemonicos-Falha.mp4?rlkey=awq3hmcp1dhr8ta8juqa18p0c&st=2hlmezjv&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/ekj9lbzl54lfhlbw5os5s/7-Mnemonico-2-Falha.mp4?rlkey=3ao30lr096qnvp2gtlx3zc0yf&st=ioyliopu&dl=1",
             "sub_url": null
           },
           {
             "code": "1.2",
-            "url": "https://www.dropbox.com/scl/fi/36ka8nrdu63whtpfmbmtb/7.1.2-Mnemonicos-Sucesso.mp4?rlkey=planopdwzjimgkjxaxk3w5t60&st=fny3hjr6&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/avyi2ib29otji2h8rvnr7/7-Mnemonicos-2-Sucesso.mp4?rlkey=v95onmlr0j86ugnp7y3agfz9z&st=y8e7hp3y&dl=1",
             "sub_url": null
           },
           {
             "code": "1.2.1",
-            "url": "https://www.dropbox.com/scl/fi/yrjgio0xwfmv3tl10o4us/7.2-Mnmonico-Conclusao.mp4?rlkey=cgsdkwwnczuz401f5mhdzztta&st=b1z02cwn&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/fj0tt3z560yzmis7fsmnd/7.2-Mnmonico-2-Conclusao.mp4?rlkey=j93lpb1as2wbypv9rtqqizugo&st=h7lcrrdk&dl=1",
             "sub_url": null
           }
         ]
@@ -111,7 +111,7 @@
         "videos": [
           {
             "code": "1",
-            "url": "https://www.dropbox.com/scl/fi/ro82zmo05h3y12am1hsfe/8-Tecnica-menmonica.mp4?rlkey=rrtcgyppi46hv69uh2ynkgrzg&st=5u69wh3e&dl=1",
+            "url": "https://www.dropbox.com/scl/fi/9ye0dg293somplt6zyk4m/8-Codifica-o-Elaborativa.mp4?rlkey=t12fkkk394nz7u3aoujjaewsd&st=1574zt4w&dl=1",
             "sub_url": null
           }
         ]
